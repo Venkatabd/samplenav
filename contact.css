@@ -1,0 +1,40 @@
+body {
+  background: #f5f5f7;
+  color: #1d1d1f;
+  font-family: Arial, sans-serif;
+}
+
+.contact {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 80px 24px;
+  text-align: center;
+}
+
+.contact h1 {
+  font-size: 40px;
+}
+
+.contact p {
+  margin: 16px 0;
+  color: #6e6e73;
+  font-size: 18px;
+}
+
+.phone-link {
+  display: inline-block;
+  color: #06c;
+  font-size: 22px;
+  text-decoration: none;
+}
+
+.phone-link:hover,
+.email-link:hover {
+  text-decoration: underline;
+}
+
+.email-link {
+  color: #06c;
+  font-size: 18px;
+  text-decoration: none;
+}
